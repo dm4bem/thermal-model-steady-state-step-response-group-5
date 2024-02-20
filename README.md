@@ -1,9 +1,11 @@
 # Projet
+# Toy Model House
 
-Authors: ....
+Authors: Camille Gravier, Marie Bercez, Paula Weiligmann, Theresa Fetzer
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Sysy6avs)
+The first results can be found in the file "G5_Toy_Model_House.pdf".
+https://github.com/dm4bem/thermal-model-steady-state-step-response-group-5/blob/main/G5_Toy_Model_House.pdf
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem/thermal-model-steady-state-step-response-group-5/HEAD)
+The results will be verified later by converting them into a Jupiter Notebook.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem/thermal-model-steady-state-step-response-group-5/HEAD)
